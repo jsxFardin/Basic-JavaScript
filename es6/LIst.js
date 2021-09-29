@@ -11,3 +11,4 @@ let colors = ['red', 'green', 'blue', 'black', 'yellow'];
 
 
 console.log(colors);
+console.log(a);
